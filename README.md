@@ -25,10 +25,6 @@ I'm currently focused on **Microsoft Azure** and preparing for the **AZ-104 Cert
 
 ---
 
-## 🛠 Projects
-
-Here are some projects I've been working on to sharpen my skills:
-
 - **Personal Portfolio on Cloud**: Deploying a personal website using Azure and AWS services.
 - **CI/CD Pipeline**: Configuring an automated deployment pipeline using Jenkins and GitHub Actions.
 - **Cloud Monitoring and Logging System**: Setting up monitoring with Prometheus and CloudWatch.
